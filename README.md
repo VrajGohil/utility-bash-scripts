@@ -150,6 +150,14 @@ Script: [maczip](maczip)
 maczip <path to folder>
 ```
 
+### 🖼 Delete all the file from a directory having file size zero
+
+Script: [delete-empty](delete-empty)
+
+```sh
+delete-empty
+```
+
 ### 🖼 Delete screenshots from Desktop on a Mac
 
 Script: [delete-ss](delete-ss)
